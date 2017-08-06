@@ -7,5 +7,4 @@ Unfortunately, state-of-the-art systems for approximate computing, such as Blink
 In this work, we design StreamApprox, a Spark/Flink-based stream analytics system for approximate computing.  StreamApprox implements an online stratified reservoir sampling algorithm in Spark Streaming to produce approximate output with rigorous error bounds. 
 
 # Source Code
-Our paper is currently under for submission to [ACM/IFIP/USENIX Middleware 2017](http://2017.middleware-conference.org/)
-Source code will be available soon
+Source code will be available soon.
