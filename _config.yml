@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: StreamApprox
-description: Approximate Computing for Stream Analytics  
+description: Approximate Computing for Stream Analytics 
+bottom: StreamApprox@2017 
