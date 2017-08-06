@@ -1,4 +1,4 @@
-<img class="img-spark-flink" src="/images/spark-flink1.png" alt="spark-flink" style="height: 130px; weight: 635px"/>
+<img class="img-spark-flink" src="/images/spark-flink1.png" alt="spark-flink" style="height: 100px; weight: 650px"/>
 # Introduction
 Approximate computing has recently emerged as a promising computing paradigm which allows making a systematic trade-off between the output accuracy and computation efficiency. Approximate computing is based on the observation that for many practical applications it is acceptable to approximate rather than produce exact output results. The idea behind approximate computing is to compute over a partial subset instead of the entire input data to achieve efficient execution. 
 
