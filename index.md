@@ -4,30 +4,39 @@
 </div>
 </div>
 
------
-<div class="large-6 large-push-3 columns" markdown="0">
-<div class="large-2 large-push-3 columns" markdown="0" style="text-align:center; display:block;">
+<!-- ------
+
+<div class="row" style="text-align:center;">
+
+<div style ="display: inline-block;">
+<div class="large-2 large-push-4 columns" markdown="0"">
         <a href="https://streamapprox.github.io/">
             <img class="t0" width="5%" src="/images/report-icon.png" alt="Technical report">
-            <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
+
         </a>
-</div>    
-<div class="large-2 large-push-3 columns" markdown="0" style="text-align:center; display:block;">
+</div>
+</div>
+
+<div style ="display: inline-block;">   
+<div class="large-2 large-push-4 columns" markdown="0">
         <a href="https://streamapprox.github.io/">
             <img class="t0" width="5%" src="/images/bibtex-icon.png" alt="Bibtex">
-            <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
         </a>   
 </div>
-<div class="large-2 large-push-3 columns" markdown="0" style="text-align:center; display:block;">
+</div>
+
+<div style ="display: inline-block;">
+<div class="large-1 large-push-4 columns" markdown="0">
         <a href="https://github.com/streamapprox/">
             <img class="t0" width="5%" src="/images/github-icon.png" alt="Source code">
-            <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
         </a>
 </div>
+</div>
 
 </div>
 
--------
+
+------- -->
 # Introduction
 Approximate computing has recently emerged as a promising computing paradigm which allows making a systematic trade-off between the output accuracy and computation efficiency. Approximate computing is based on the observation that for many practical applications it is acceptable to approximate rather than produce exact output results. The idea behind approximate computing is to compute over a partial subset instead of the entire input data to achieve efficient execution.
 
