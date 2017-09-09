@@ -6,19 +6,19 @@
 
 -----
 <div class="large-6 large-push-3 columns" markdown="0">
-<div class="large-2 large-push-3 columns" markdown="0" style="text-align:center; display: inline-block;">
+<div class="large-2 large-push-3 columns" markdown="0" style="text-align:center; display:block;">
         <a href="https://streamapprox.github.io/">
             <img class="t0" width="5%" src="/images/report-icon.png" alt="Technical report">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a>
 </div>    
-<div class="large-2 large-push-3 columns" markdown="0" style="text-align:center;">
+<div class="large-2 large-push-3 columns" markdown="0" style="text-align:center; display:block;">
         <a href="https://streamapprox.github.io/">
             <img class="t0" width="5%" src="/images/bibtex-icon.png" alt="Bibtex">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
         </a>   
 </div>
-<div class="large-2 large-push-3 columns" markdown="0" style="text-align:center;">
+<div class="large-2 large-push-3 columns" markdown="0" style="text-align:center; display:block;">
         <a href="https://github.com/streamapprox/">
             <img class="t0" width="5%" src="/images/github-icon.png" alt="Source code">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
