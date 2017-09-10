@@ -1,8 +1,8 @@
-<div class="row">
+<-- <div class="row">
 <div class="large-6 large-push-3 columns" markdown="0" style="text-align:center;">
   <img class="img-spark-flink" src="/images/spark-flink1.png" alt="spark-flink" style="height: 150px; weight: 635px;"/>
 </div>
-</div>
+</div> -->
 
 <!-- ------
 
