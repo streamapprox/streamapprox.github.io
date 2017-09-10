@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
 title: StreamApprox
 description: Approximate Computing for Stream Analytics
-author: TUD 
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-slate

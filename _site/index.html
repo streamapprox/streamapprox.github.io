@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta name="description" content="StreamApprox : Approximate Computing for Stream Analytics">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=">
+
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>StreamApprox | Approximate Computing for Stream Analytics</title>
+<meta property="og:title" content="StreamApprox" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Approximate Computing for Stream Analytics" />
+<meta property="og:description" content="Approximate Computing for Stream Analytics" />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="StreamApprox" />
+<script type="application/ld+json">
+{"name":"StreamApprox","description":"Approximate Computing for Stream Analytics","author":null,"@type":"WebSite","url":"http://localhost:4000/","publisher":null,"image":null,"headline":"StreamApprox","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="">View on GitHub</a>
+
+          <h1 id="project_title">StreamApprox</h1>
+          <h2 id="project_tagline">Approximate Computing for Stream Analytics</h2>
+
+          
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <div class="large-2 large-push-3 columns" style="text-align:center;">
+        <a href="https://streamapprox.github.io/">
+            <img class="t0" width="40%" src="/images/report-icon.png" alt="Technical report" />
+            <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
+        </a>
+</div>
+
+<div class="large-2 large-push-3 columns" style="text-align:center;">
+        <a href="https://streamapprox.github.io/">
+            <img class="t0" width="40%" src="/images/bibtex-icon.png" alt="Bibtex" />
+            <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
+        </a>   
+</div>
+
+<div class="large-2 large-push-3 columns" style="text-align:center;">
+        <a href="https://streamapprox.github.io/">
+            <img class="t0" width="40%" src="/images/github-icon.png" alt="Source code" />
+            <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
+        </a>
+</div>
+<hr />
+<h1 id="introduction">Introduction</h1>
+<p>Approximate computing has recently emerged as a promising computing paradigm which allows making a systematic trade-off between the output accuracy and computation efficiency. Approximate computing is based on the observation that for many practical applications it is acceptable to approximate rather than produce exact output results. The idea behind approximate computing is to compute over a partial subset instead of the entire input data to achieve efficient execution.</p>
+
+<p>Unfortunately, state-of-the-art systems for approximate computing, such as BlinkDB and ApproxHadoop, are primarily geared towards batch analytics, where the input data remains unchanged during the course of sampling. Thus, these state-of-the-art systems cannot be deployed in the context of stream analytics where new data continuously arrives as an unbounded stream.</p>
+
+<div>
+  <img style="height: 120px; weight: 680px;" class="img-overivew" src="/images/overview.png" alt="overview" />
+</div>
+
+<p>In this work, we design StreamApprox, a Spark/Flink-based stream analytics system for approximate computing.  StreamApprox implements an online stratified reservoir sampling algorithm in Spark Streaming to produce approximate output with rigorous error bounds.</p>
+
+<h1 id="source-code">Source Code</h1>
+<p>Source code will be available soon.</p>
+
+<hr />
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p><a href="https://streamapprox.github.io/"></a></p>
+      </footer>
+    </div>
+
+    
+  </body>
+</html>
