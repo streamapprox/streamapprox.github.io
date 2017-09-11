@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<div style="text-align:center;">
+  <img class="img-spark-flink" src="/images/spark-flink1.png" alt="spark-flink" style="height: 80px; weight: 600px;"/>
+</div>
+
+
 <div class="large-2 large-push-3 columns" markdown="0" style="text-align:center;">
         <a href="https://streamapprox.github.io/">
             <img class="t0" width="40%" src="/images/report-icon.png" alt="Technical report">
