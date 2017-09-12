@@ -8,7 +8,7 @@ layout: default
 
 
 <div class="large-2 large-push-3 columns" markdown="0" style="text-align:center;">
-        <a href="https://streamapprox.github.io/">
+        <a href="https://arxiv.org/abs/1709.02946">
             <img class="t0" width="40%" src="/images/report-icon.png" alt="Technical report">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a>
@@ -41,6 +41,14 @@ Unfortunately, state-of-the-art systems for approximate computing, such as Blink
 In this work, we design StreamApprox, a Spark/Flink-based stream analytics system for approximate computing.  StreamApprox implements an online stratified reservoir sampling algorithm in Spark Streaming to produce approximate output with rigorous error bounds.
 
 # Source Code
-Source code will be available soon.
+<!-- Source code will be available soon. -->
+We partially release the source code. Full <a href="https://github.com/streamapprox?tab=repositories"> source code </a> will be available, when the work gets published.
+* Cluster deployment <a href="https://github.com/streamapprox/flink-setup"> script </a>
+* <a href="https://github.com/streamapprox/spark"> Spark-based implementation </a>
+
+------
+# News
+* This work has been accepted to USENIX Middleware'17, see you in Las Vegas, Nevada!
+
 
 -------
