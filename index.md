@@ -44,7 +44,7 @@ In this work, we design StreamApprox, a Spark/Flink-based stream analytics syste
 <!-- Source code will be available soon. -->
 We partially release the source code. Full <a href="https://github.com/streamapprox?tab=repositories"> source code </a> will be available, when the work gets published.
 * Cluster deployment <a href="https://github.com/streamapprox/flink-setup"> script </a>
-* <a href="https://github.com/streamapprox/spark"> Spark-based implementation </a>
+<!-- * <a href="https://github.com/streamapprox/spark"> Spark-based implementation </a> -->
 
 ------
 # News
