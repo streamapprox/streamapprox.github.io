@@ -58,7 +58,7 @@ layout: default
 
 <div style="text-align:center; font-size: 0.9em; border-bottom: 3px double #8c8b8b;">
         <div style="text-align:center; margin: 0 0 0 0; font-size: 0.5em;">
-        <img width="5%" src="/images/pptx-icon.png" alt="Slides">
+        <img width="6%" src="/images/pptx-icon.png" alt="Slides">
         </div>
         <a href="/slides/Middleware17.pptx">Middleware'17</a>|
         <a href="/slides/FlinkForward17.pptx">Flink Forward'17</a>|
