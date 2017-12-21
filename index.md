@@ -29,7 +29,7 @@ layout: default
 </div>
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
-        <a href="https://streamapprox.github.io/">
+        <a href="https://github.com/streamapprox?tab=repositories">
             <img class="t0" width="40%" src="/images/github-icon.png" alt="Source code">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
         </a>
