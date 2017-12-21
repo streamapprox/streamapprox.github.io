@@ -22,7 +22,7 @@ layout: default
 </div>    
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
-        <a href="https://streamapprox.github.io/">
+        <a href="/docs/bib.md">
             <img class="t0" width="40%" src="/images/bibtex-icon.png" alt="Bibtex">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
         </a>   
@@ -36,11 +36,35 @@ layout: default
 </div>
 
 -------
+<!-- <div class="large-2 medium-push-2 columns" style="text-align:center;position:relative;left:29%;right:auto;">
+        <a href="/slides/Middleware17.pptx">
+            <img class="t0" width="45%" src="/images/pptx-icon.png" alt="Middleware"> <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Middleware'17</div>
+        </a>
+</div>
+
+<div class="large-2 medium-push-2 columns" style="text-align:center;position:relative;left:29%;right:auto;">
+        <a href="/slides/FlinkForward17.pptx">
+            <img class="t0" width="45%" src="/images/pptx-icon.png" alt="Flink Forward">
+            <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Flink Forward'17</div>
+        </a>
+</div>
+
+<div class="large-2 medium-push-2 columns" style="text-align:center;position:relative;left:29%;right:auto;">
+        <a href="/slides/SparkSummit17.pptx">
+            <img class="t0" width="45%" src="/images/pptx-icon.png" alt="Spark Summit">
+            <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Spark Summit'17</div>
+        </a>
+</div> -->
+
 <div style="text-align:center; font-size: 0.9em; border-bottom: 3px double #8c8b8b;">
+        <div style="text-align:center; margin: 0 0 0 0; font-size: 0.5em;">
+        <img width="5%" src="/images/pptx-icon.png" alt="Slides">
+        </div>
         <a href="/slides/Middleware17.pptx">Middleware'17</a>|
         <a href="/slides/FlinkForward17.pptx">Flink Forward'17</a>|
         <a href="/slides/SparkSummit17.pptx">Spark Summit'17</a>
-</div>
+</div> 
+
 
 # Introduction
 Approximate computing has recently emerged as a promising computing paradigm which allows making a systematic trade-off between the output accuracy and computation efficiency. Approximate computing is based on the observation that for many practical applications it is acceptable to approximate rather than produce exact output results. The idea behind approximate computing is to compute over a partial subset instead of the entire input data to achieve efficient execution.
